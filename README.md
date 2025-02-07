@@ -18,5 +18,5 @@
 
 1. **下载或克隆项目文件**
    ```bash
-   git clone https://github.com/1224-HuangJin/Eaglercraft.git
+   git clone https://github.com/1224-HuangJin/eaglercraft.git
    cd Eaglercraft
